@@ -1,1 +1,111 @@
-GIF89a/*<svg/onload=alert(1)>*/=alert(document.domain)//;
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="description" content="Making all the GIFs.">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    
+        <meta property="fb:app_id" content="406655189415060">
+    <meta property="og:site_name" content="GIPHY">
+    <meta property="og:url" content="https://i.giphy.com/media/l0Exu9yaZBIa7P6V2/giphy.gif">
+    <meta property="og:title" content="Sad Miss You GIF by GIPHY Studios Originals - Find &amp; Share on GIPHY">
+    <meta property="og:description" content="Making all the GIFs.">
+
+    
+
+    
+    <meta property="og:type" content="video.other">
+    <meta property="og:image" content="https://i.giphy.com/media/l0Exu9yaZBIa7P6V2/giphy.gif">
+    <meta property="og:image:type" content="image/gif">
+    <meta property="og:image:width" content="480">
+    <meta property="og:image:height" content="320">
+    
+    
+    <meta property="og:video" content="https://i.giphy.com/media/l0Exu9yaZBIa7P6V2/giphy.mp4">
+    <meta property="og:video:secure_url" content="https://i.giphy.com/media/l0Exu9yaZBIa7P6V2/giphy.mp4">
+    <meta property="og:video:type" content="video/mp4">
+    <meta property="og:video:width" content="480">
+    <meta property="og:video:height" content="320">
+    
+
+    <meta name="twitter:account_id" content="1020383864" />
+    <meta name="twitter:card" content="player">
+    <meta name="twitter:title" content="Sad Miss You GIF by GIPHY Studios Originals - Find &amp; Share on GIPHY">
+    <meta name="twitter:creator" content="@giphy">
+    <meta name="twitter:site" content="@giphy">
+    <meta name="twitter:description" content="Making all the GIFs.">
+    
+    <meta name="twitter:image:src" content="https://i.giphy.com/media/l0Exu9yaZBIa7P6V2/giphy-facebook_s.jpg">
+    <meta name="twitter:image" content="https://i.giphy.com/media/l0Exu9yaZBIa7P6V2/giphy-facebook_s.jpg">
+    
+    <meta name="twitter:domain" content="giphy.com">
+
+    
+    <meta name="twitter:player" content="https://giphy.com/embed/l0Exu9yaZBIa7P6V2/twitter/iframe">
+    <meta name="twitter:player:width" content="435">
+    <meta name="twitter:player:height" content="290">
+    
+
+    
+    <meta name="rating" content="general">
+    <meta name="image:rating" content="g">
+    
+
+    <!-- /twitter seo -->
+
+    <meta name="description" content="Making all the GIFs."/>
+    <meta name="author" content="GIPHY"/>
+    <meta name="keywords" content="thinking about you, คิดถึ, take me back, miss, thinking of you, miss u, i miss u, i missed you so much, i miss you, miss you, คิดถึง, i miss you so much, sad, GIF, Animated GIF">
+    <meta name="pinterest" content="nohover">
+
+    
+    <link rel="alternate" type="application/json+oembed" href="https://giphy.com/services/oembed?url=https://media.giphy.com/media/l0Exu9yaZBIa7P6V2/giphy.gif" title="Sad Miss You GIF by GIPHY Studios Originals - Find &amp; Share on GIPHY oEmbed Lookup" />
+    
+    <title>Sad Miss You GIF by GIPHY Studios Originals - Find &amp; Share on GIPHY</title>
+  </head>
+  <body style="background-color:#121212">
+    <article class="media">
+        
+        <img src="https://media.giphy.com/media/l0Exu9yaZBIa7P6V2/200w_s.gif" alt=""
+            style="position:absolute;left:50%;top:50%;width:480px;-webkit-transform:translate(-50%,-50%);-moz-transform:translate(-50%,-50%);transform:translate(-50%,-50%);" />
+        
+    </article>
+    <!-- Google Analytics -->
+    <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-38174542-34', 'auto');
+    ga('require', 'GTM-WXRB58X');
+    
+    ga('send', 'pageview');
+    </script>
+    <!-- End Google Analytics -->
+    <!-- Start Alexa Certify Javascript -->
+<script type="text/javascript">
+_atrk_opts = { atrk_acct:"wlIjj1aAkN00Ei", domain:"giphy.com",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=wlIjj1aAkN00Ei" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify Javascript -->
+
+    <script src="/static/dist/runtime.900f4ecb.bundle.js"></script>
+    <script src="/static/dist/mediaLanding.82b7b6de.bundle.js"></script>
+    <script>
+        var Giphy = Giphy || {};
+        if (Giphy.renderMediaLanding) {
+            Giphy.renderMediaLanding(document.querySelector('.media'), {
+                gif: {"id": "l0Exu9yaZBIa7P6V2", "index_id": 34310589, "search_id": "a20f2a076b77afc54b8a77f18e787f1f", "username": "studiosoriginals", "slug": "studiosoriginals-l0Exu9yaZBIa7P6V2", "tags_string": "giphyupload\ngiphytrending\nsad\nmiss\nmiss you\ni miss you\nthinking of you\nmiss u\ni miss u\ni miss you so much\ntake me back\ngiphygcardsmissyou\ni missed you so much\n\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\n\u0e04\u0e34\u0e14\u0e16\u0e36", "featured_tags_string": "miss\nmiss you\ni miss you\nthinking of you\nmiss u\ni miss u\ntake me back\ni missed you so much", "source_body": "", "source_caption": "", "source_domain": "", "source_tld": "", "source_post_url": "", "source_image_url": "/tmp/l0Exu9yaZBIa7P6V2.gif", "source_content_url": "", "bitly_url": "https://gph.is/2kcVwZR", "rating": "g", "edit_status": "", "is_preserve_size": false, "is_featured": false, "is_hidden": false, "is_removed": false, "is_community": false, "is_caption": false, "is_anonymous": false, "is_realtime": false, "is_sticker": false, "is_indexable": false, "is_takedown": false, "is_nsfw": false, "import_datetime": "2017-02-10T22:24:59+00:00", "create_datetime": "2017-02-10T22:25:05+00:00", "update_datetime": "2020-05-24T23:45:07+00:00", "trending_datetime": "2020-05-24T23:45:07+00:00", "search_datetime": null, "type": "gif", "url": "https://giphy.com/gifs/studiosoriginals-l0Exu9yaZBIa7P6V2", "embed_url": "https://giphy.com/embed/l0Exu9yaZBIa7P6V2", "images": {"looping": {"mp4": "https://media.giphy.com/media/l0Exu9yaZBIa7P6V2/giphy-loop.mp4"}, "fixed_height": {"url": "https://media.giphy.com/media/l0Exu9yaZBIa7P6V2/200.gif", "width": 300, "height": 200, "size": 197219, "mp4": "https://media.giphy.com/media/l0Exu9yaZBIa7P6V2/200.mp4", "webp": "https://media.giphy.com/media/l0Exu9yaZBIa7P6V2/200.webp", "webp_size": 92836}, "fixed_height_still": {"url": "https://media.giphy.com/media/l0Exu9yaZBIa7P6V2/200_s.gif", "width": 300, "height": 200}, "fixed_height_downsampled": {"url": "https://media.giphy.com/media/l0Exu9yaZBIa7P6V2/200_d.gif", "width": 300, "height": 200, "size": 118735, "webp": "https://media.giphy.com/media/l0Exu9yaZBIa7P6V2/200_d.webp", "webp_size": 88500}, "fixed_width": {"url": "https://media.giphy.com/media/l0Exu9yaZBIa7P6V2/200w.gif", "width": 200, "height": 133, "size": 134996, "mp4": "https://media.giphy.com/media/l0Exu9yaZBIa7P6V2/200w.mp4", "mp4_size": 28327, "webp": "https://media.giphy.com/media/l0Exu9yaZBIa7P6V2/200w.webp", "webp_size": 48700}, "fixed_width_still": {"url": "https://media.giphy.com/media/l0Exu9yaZBIa7P6V2/200w_s.gif", "width": 200, "height": 133}, "fixed_width_downsampled": {"url": "https://media.giphy.com/media/l0Exu9yaZBIa7P6V2/200w_d.gif", "width": 200, "height": 133, "size": 73474, "webp": "https://media.giphy.com/media/l0Exu9yaZBIa7P6V2/200w_d.webp", "webp_size": 44222}, "fixed_height_small": {"url": "https://media.giphy.com/media/l0Exu9yaZBIa7P6V2/100.gif", "width": 150, "height": 100, "size": 73989, "mp4": "https://media.giphy.com/media/l0Exu9yaZBIa7P6V2/100.mp4", "mp4_size": 19008, "webp": "https://media.giphy.com/media/l0Exu9yaZBIa7P6V2/100.webp", "webp_size": 32060}, "fixed_height_small_still": {"url": "https://media.giphy.com/media/l0Exu9yaZBIa7P6V2/100_s.gif", "width": 150, "height": 100}, "fixed_width_small": {"url": "https://media.giphy.com/media/l0Exu9yaZBIa7P6V2/100w.gif", "width": 100, "height": 67, "size": 40015, "mp4": "https://media.giphy.com/media/l0Exu9yaZBIa7P6V2/100w.mp4", "mp4_size": 11662, "webp": "https://media.giphy.com/media/l0Exu9yaZBIa7P6V2/100w.webp", "webp_size": 16996}, "fixed_width_small_still": {"url": "https://media.giphy.com/media/l0Exu9yaZBIa7P6V2/100w_s.gif", "width": 100, "height": 67}, "downsized": {"url": "https://media.giphy.com/media/l0Exu9yaZBIa7P6V2/200w_d.gif", "width": 200, "height": 133, "size": 585713}, "downsized_still": {"url": "https://media.giphy.com/media/l0Exu9yaZBIa7P6V2/giphy_s.gif", "width": 480, "height": 320}, "downsized_large": {"url": "https://media.giphy.com/media/l0Exu9yaZBIa7P6V2/giphy.gif", "width": 480, "height": 320, "size": 585713}, "downsized_medium": {"url": "https://media.giphy.com/media/l0Exu9yaZBIa7P6V2/giphy.gif", "width": 480, "height": 320, "size": 585713}, "original": {"url": "https://media.giphy.com/media/l0Exu9yaZBIa7P6V2/giphy.gif", "width": 480, "height": 320, "size": 585713, "frames": 12, "mp4": "https://media.giphy.com/media/l0Exu9yaZBIa7P6V2/giphy.mp4", "webp": "https://media.giphy.com/media/l0Exu9yaZBIa7P6V2/giphy.webp"}, "original_still": {"url": "https://media.giphy.com/media/l0Exu9yaZBIa7P6V2/giphy_s.gif", "width": 480, "height": 320}, "source": {"url": "https://media1.giphy.com/media/l0Exu9yaZBIa7P6V2/source.gif", "width": "480", "height": "320", "size": "692167", "frames": null}}, "get_absolute_url": "/gifs/studiosoriginals-l0Exu9yaZBIa7P6V2", "title": "GIPHY Studios Originals GIF", "tags": ["thinking about you", "\u0e04\u0e34\u0e14\u0e16\u0e36", "take me back", "miss", "thinking of you", "miss u", "i miss u", "i missed you so much", "i miss you", "miss you", "\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07", "i miss you so much", "sad"], "featured_tags": ["thinking about you", "\u0e04\u0e34\u0e14\u0e16\u0e36", "take me back", "miss", "thinking of you", "miss u", "i miss u", "i missed you so much", "i miss you", "miss you"], "user": {"id": 870992, "profile_url": "https://giphy.com/studiosoriginals", "profile_path": "/studiosoriginals", "display_name": "GIPHY Studios Originals", "username": "studiosoriginals", "name": "GIPHY Studios Originals", "avatar_url": "https://media.giphy.com/avatars/studiosoriginals/j3JBzK5twdv8.jpg", "banner_url": "https://media2.giphy.com/headers/studiosoriginals/fHmcHCHkISg3.gif", "is_public": true, "is_verified": true, "attribution_display_name": "GIPHY Studios Originals", "suppress_chrome": false, "website_url": "https://giphy.com/studios", "website_display_url": "giphy.com", "description": "", "facebook_url": null, "twitter": "", "twitter_url": null, "instagram_url": null, "tumblr_url": null}},
+                giphyUrl: 'https://giphy.com/',
+                renditionFilename: 'giphy.gif',
+                trackingQueryString: 'utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term='
+            });
+        }
+    </script>
+  </body>
+</html>
