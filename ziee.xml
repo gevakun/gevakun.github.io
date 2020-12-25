@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 	<channel>
-		<title>SkillFactory - Точка входа в мир Data Science</title>
+		<title>{{7*7}}</title>
 		<description>Точка входа в мир Data Science</description>
 		<pubDate>Thu, 24 Dec 2020 23:03:28 +0000</pubDate>
 		<generator>FetchRSS</generator>
