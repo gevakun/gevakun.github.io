@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE foo [
 <!ELEMENT foo ANY >
-<!ENTITY xxe "gevakunishere" >]>
+<!ENTITY xxe "file:///etc/passwd1" >]>
 <rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"  xmlns:dc="http://purl.org/dc/elements/1.1/">
 	<channel>
 		<title>&xxe;</title>
